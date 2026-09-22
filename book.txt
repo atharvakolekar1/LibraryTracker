@@ -4,4 +4,4 @@ Availability: Available
 
 Name: Marvel
 Author: Stanley
-Availability: Available
+Availability: now available 
